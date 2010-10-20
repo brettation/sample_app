@@ -1,3 +1,12 @@
+# Ruby on Rails tutorial: sample application
+
+This is a the sample application for Mike Hartl's Ruby Tutorial
+
+As part of his tutorial he directs nuby's to edit this ReadMe.
+
+I am keeping original ReadMe information below.
+
+++++++++++++++++++++++++++++++++++++
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
